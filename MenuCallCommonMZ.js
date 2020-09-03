@@ -10,7 +10,7 @@
 // (C)2015-2017 Triacontane
 //"CharacterFreeze.js" https://github.com/triacontane/RPGMakerMV/blob/master/CharacterFreeze.js
 
-// (C)senami. Twitter : senamirai_tkool
+// (C)senami. Twitter : https://twitter.com/senamirai_tkool
 
 // This software is released under the MIT License.
 // http://opensource.org/licenses/mit-license.php
@@ -23,7 +23,7 @@
 /*:
  * @target MZ
  * @plugindesc メニュー開閉の代わりにコモンイベント実装するプラグイン
- * @author senami. @url https://twitter.com/senamirai_tkool
+ * @author のん、トリアコンタン(加筆修正：senami.）
  * 
  * @help MenuCallCommonMZ.js
  * のんちゃ様の「MenuCallCommon」、
